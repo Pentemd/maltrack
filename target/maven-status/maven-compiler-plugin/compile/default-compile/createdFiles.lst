@@ -1,0 +1,8 @@
+fr\pentalonwaterprouf\maltrack\commands\MoneyCommand.class
+fr\pentalonwaterprouf\maltrack\commands\MaltrackCommand.class
+fr\pentalonwaterprouf\maltrack\Maltrack.class
+fr\pentalonwaterprouf\maltrack\functions\Functions.class
+fr\pentalonwaterprouf\maltrack\commands\HomeCommand.class
+fr\pentalonwaterprouf\maltrack\commands\ShopCommand.class
+fr\pentalonwaterprouf\maltrack\listener\EventListener.class
+fr\pentalonwaterprouf\maltrack\functions\ChangeItemMeta.class

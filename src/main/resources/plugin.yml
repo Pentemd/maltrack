@@ -1,0 +1,29 @@
+name: Maltrack
+version: ${project.version}
+main: fr.pentalonwaterprouf.maltrack.Maltrack
+api-version: 1.17
+authors: [ PentalonWaterprouf ]
+description: A good Plugin
+commands:
+
+  shop:
+    description: Ceci est le shop
+    usage: /<command>
+
+  sethome:
+    description: Command qui sert à enregistrer un home
+
+
+  home:
+    description: Command qui sert à se téléporter à un home que l'on à enregistré au préalable avec le /sethome ou à connaitre le nom de chaque home que l'on a déjà
+
+
+  delhome:
+    description: Command qui sert à effacer un home que l'on à enregistré au préalable avec le /sethome
+
+  money:
+    description: vous dit combien avez-vous de money
+
+  maltrack:
+    description: vous aide sur les commandes ajouté par ce plugin
+
